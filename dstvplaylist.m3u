@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DOCU ▎DISCOVERY CHANNEL" tvg-logo="https://img.logo-cdn.cc/discoverychannel.png" group-title="AFR ▎DOCUMENTARY",DOCU ▎DISCOVERY CHANNEL
-http://mag.pronew.pro:80/00352671543592/683179/118026
-#EXTINF:-1 tvg-name="DOCU ▎NATIONAL GEOGRAPHIC" tvg-logo="https://img.logo-cdn.cc/nationalgeographic.png" group-title="AFR ▎DOCUMENTARY",DOCU ▎NATIONAL GEOGRAPHIC
-http://mag.pronew.pro:80/00352671543592/683179/118060
-#EXTINF:-1 tvg-name="DOCU ▎NATIONAL GEOGRAPHIC WILD" tvg-logo="https://img.logo-cdn.cc/nationalgeographicwild.png" group-title="AFR ▎DOCUMENTARY",DOCU ▎NATIONAL GEOGRAPHIC WILD
-http://mag.pronew.pro:80/00352671543592/683179/118061
-#EXTINF:-1 tvg-name="DOCU ▎DISCOVERY FAMILY" tvg-logo="https://img.logo-cdn.cc/discoveryfamily.png" group-title="AFR ▎DOCUMENTARY",DOCU ▎DISCOVERY FAMILY
-http://mag.pronew.pro:80/00352671543592/683179/118038
-#EXTINF:-1 tvg-name="DOCU ▎WILDEARTH" tvg-logo="https://img.logo-cdn.cc/wildearth.png" group-title="AFR ▎DOCUMENTARY",DOCU ▎WILDEARTH
-http://mag.pronew.pro:80/00352671543592/683179/391778
-#EXTINF:-1 tvg-name="DOCU ▎TRAVEL CHANNEL" tvg-logo="https://img.logo-cdn.cc/travelchannel.png" group-title="AFR ▎DOCUMENTARY",DOCU ▎TRAVEL CHANNEL
-http://mag.pronew.pro:80/00352671543592/683179/391824
-#EXTINF:-1 tvg-name="DOCU ▎HISTORY" tvg-logo="https://img.logo-cdn.cc/historyhd.png" group-title="AFR ▎DOCUMENTARY",DOCU ▎HISTORY
-http://mag.pronew.pro:80/00352671543592/683179/391829
 #EXTINF:-1 tvg-name="KIDS ▎CARTOON NETWORK" tvg-logo="https://img.logo-cdn.cc/cartoonnetwork.png" group-title="AFR ▎KIDS",KIDS ▎CARTOON NETWORK
 http://mag.pronew.pro:80/00352671543592/683179/118071
 #EXTINF:-1 tvg-name="KIDS ▎BOOMERANG" tvg-logo="https://img.logo-cdn.cc/boomerang.png" group-title="AFR ▎KIDS",KIDS ▎BOOMERANG
@@ -165,3 +151,17 @@ http://mag.pronew.pro:80/00352671543592/683179/391802
 http://mag.pronew.pro:80/00352671543592/683179/391803
 #EXTINF:-1 tvg-name="MOVIES ▎ZEE WORLD" tvg-logo="https://img.logo-cdn.cc/zeeworld.png" group-title="AFR ▎MOVIES",MOVIES ▎ZEE WORLD
 http://mag.pronew.pro:80/00352671543592/683179/391815
+#EXTINF:-1 tvg-name="DOCU ▎DISCOVERY CHANNEL" tvg-logo="https://img.logo-cdn.cc/discoverychannel.png" group-title="AFR ▎DOCUMENTARY",DOCU ▎DISCOVERY CHANNEL
+http://mag.pronew.pro:80/00352671543592/683179/118026
+#EXTINF:-1 tvg-name="DOCU ▎NATIONAL GEOGRAPHIC" tvg-logo="https://img.logo-cdn.cc/nationalgeographic.png" group-title="AFR ▎DOCUMENTARY",DOCU ▎NATIONAL GEOGRAPHIC
+http://mag.pronew.pro:80/00352671543592/683179/118060
+#EXTINF:-1 tvg-name="DOCU ▎NATIONAL GEOGRAPHIC WILD" tvg-logo="https://img.logo-cdn.cc/nationalgeographicwild.png" group-title="AFR ▎DOCUMENTARY",DOCU ▎NATIONAL GEOGRAPHIC WILD
+http://mag.pronew.pro:80/00352671543592/683179/118061
+#EXTINF:-1 tvg-name="DOCU ▎DISCOVERY FAMILY" tvg-logo="https://img.logo-cdn.cc/discoveryfamily.png" group-title="AFR ▎DOCUMENTARY",DOCU ▎DISCOVERY FAMILY
+http://mag.pronew.pro:80/00352671543592/683179/118038
+#EXTINF:-1 tvg-name="DOCU ▎WILDEARTH" tvg-logo="https://img.logo-cdn.cc/wildearth.png" group-title="AFR ▎DOCUMENTARY",DOCU ▎WILDEARTH
+http://mag.pronew.pro:80/00352671543592/683179/391778
+#EXTINF:-1 tvg-name="DOCU ▎TRAVEL CHANNEL" tvg-logo="https://img.logo-cdn.cc/travelchannel.png" group-title="AFR ▎DOCUMENTARY",DOCU ▎TRAVEL CHANNEL
+http://mag.pronew.pro:80/00352671543592/683179/391824
+#EXTINF:-1 tvg-name="DOCU ▎HISTORY" tvg-logo="https://img.logo-cdn.cc/historyhd.png" group-title="AFR ▎DOCUMENTARY",DOCU ▎HISTORY
+http://mag.pronew.pro:80/00352671543592/683179/391829
